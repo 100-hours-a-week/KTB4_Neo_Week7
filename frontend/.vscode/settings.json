@@ -1,0 +1,21 @@
+{
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.inlineSuggest.enabled": true,
+  "javascript.suggest.enabled": true,
+  "typescript.suggest.enabled": true,
+  "github.copilot.editor.enableAutoCompletions": true,
+  "github.copilot.enable": {
+    "*": true,
+    "javascript": true,
+    "html": true,
+    "css": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  }
+}
